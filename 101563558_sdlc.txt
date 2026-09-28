@@ -1,1 +1,11 @@
 Why is DevOps important for the Software Development Life Cycle (SDLC)?
+
+DevOps is the collaboration between the Development and Operations team, that
+makes software launching faster and stable.
+
+Previously, these teams would work in an isolated way, which lead to major issues 
+like delays, frequent bugs and miscommunication. Such consequences could hinder
+the quality of the product and slow down production.
+
+Therefore, with the creation of DevOps, teams are able to improve the SDLC by
+implementing better practices and principles, and collaborate to meet a common goal.
