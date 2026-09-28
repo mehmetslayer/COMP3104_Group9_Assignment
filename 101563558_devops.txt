@@ -1,3 +1,6 @@
 COMP 3104 DevOps Course Info
 
-
+The COMP 3104 DevOps Course teaches the practices behind the culture, methodology and practices
+that make DevOps. It provides knowledge on Continuous Integration/Continuous Deployment (CI/CD),
+the Software Development Life Cycle (SDLC), Deployment Containerization and other solutions that
+are recognized by the industry.
