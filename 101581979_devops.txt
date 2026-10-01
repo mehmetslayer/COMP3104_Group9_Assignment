@@ -2,3 +2,7 @@ DevOps
 
 DevOps is a software development approach that combines development and operations teams.
 Its goal is to improve collaboration, automate processes, and deliver software faster and more reliably.
+
+Common DevOps practices include continuous integration, continuous delivery,
+automation, version control, monitoring, and collaboration between teams.
+These practices help developers detect problems earlier and release updates more efficiently.
