@@ -2,9 +2,10 @@
 
 ## Group Members
 - **Leader:** Mehmet Emin Onem (101374462) - [GitHub](https://github.com/mehmetslayer)
-- **Member 2:** 
-- **Member 3:** 
-- **Member 4:** 
+- **Member 2:** Disha Padsala (101581979) -  [Github](https://github.com/D81979)
+- **Member 3:** Maria Tai (101563558) - [Github](https://github.com/mmmtl)
+- **Member 4:** Junyong Choi (101539862) - [Github](https://github.com/Junyong0619) 
+
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
