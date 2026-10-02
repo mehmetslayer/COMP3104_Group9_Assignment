@@ -1,0 +1,4 @@
+In COMP3014, we look at how DevOps connects the people who write software with the people who run it. 
+Before DevOps, these teams often worked separately, so code that worked on a developer's machine 
+could break once it was deployed. DevOps tries to fix this by making releases smaller,
+more frequent and more automated.

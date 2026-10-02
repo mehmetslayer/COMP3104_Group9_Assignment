@@ -1,10 +1,10 @@
-# COMP3104_Group1_Assignment
+# COMP3104_Group9_Assignment
 
 ## Group Members
-- **Leader:** Pritesh Patel (1023756) - [GitHub](https://github.com/priteshpatel)
-- **Member 2:** Disha Padsala (101581979) - [GitHub](https://github.com/D81979)
-- **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
-- **Member 4:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Leader:** Mehmet Emin Onem (101374462) - [GitHub](https://github.com/mehmetslayer)
+- **Member 2:** Disha Padsala (101581979) -  [Github](https://github.com/D81979)
+- **Member 3:** Maria Tai (101563558) - [Github](https://github.com/mmmtl)
+- **Member 4:** Junyong Choi (101539862) - [Github](https://github.com/Junyong0619) 
 
 
 ## Project Description
@@ -19,4 +19,4 @@ This repository hosts the group assignment for COMP3104 DevOps course, focusing 
 The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/ci.yml`.
 
 ## Branching Strategy
-Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
+Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `master` branch via Pull Requests.
