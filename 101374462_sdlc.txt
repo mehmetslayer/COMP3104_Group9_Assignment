@@ -1,0 +1,6 @@
+The software development lifecycle (SDLC) covers the stages of a project:
+planning, design, coding, testing, deployment and maintenance.
+DevOps connects these stages so that code is tested and released automatically instead of being handed off from team to team.
+
+This helps teams find bugs earlier and ship updates in small steps. In my own projects,
+using Git branches and deploying through a hosting platform already made releases easier.
