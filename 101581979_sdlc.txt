@@ -1,0 +1,15 @@
+Software Development Life Cycle (SDLC)
+
+SDLC is a structured process used to design, develop, test, deploy, and maintain software.
+It helps teams organize software development into clear stages.
+
+Common stages of SDLC include planning, requirements analysis, design,
+development, testing, deployment, and maintenance.
+Each stage helps ensure the software is built in an organized and reliable way.
+
+DevOps improves the SDLC by introducing automation, continuous integration,
+continuous delivery, and better communication between teams.
+This helps reduce delays and makes software releases faster and more consistent.
+
+Using DevOps practices throughout the SDLC can improve software quality,
+reduce deployment risks, and help teams respond quickly to user feedback and system issues.
