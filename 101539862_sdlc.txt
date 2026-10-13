@@ -1,1 +1,3 @@
 The software development lifecycle (SDLC) describes the stages software goes through: planning, requirements, design, implementation, testing, deployment and maintenance. Traditionally these stages were handled by separate teams, and code was handed over to operations only at the end.
+
+DevOps changes this by connecting the stages into one continuous loop. Code is integrated and tested automatically on every commit (continuous integration), and releases are built and deployed through a pipeline instead of by hand (continuous delivery). Problems are found within minutes of a change rather than weeks later.
