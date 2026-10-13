@@ -1,0 +1,1 @@
+COMP 3104 DevOps is a third-year course in the Computer Programming and Analysis program at George Brown College. It covers how development and operations teams work together to build, test and ship software quickly and reliably.
