@@ -3,3 +3,5 @@ The software development lifecycle (SDLC) describes the stages software goes thr
 DevOps changes this by connecting the stages into one continuous loop. Code is integrated and tested automatically on every commit (continuous integration), and releases are built and deployed through a pipeline instead of by hand (continuous delivery). Problems are found within minutes of a change rather than weeks later.
 
 For a team this matters in three ways: faster feedback, because a broken build is visible to everyone immediately; safer releases, because small frequent changes are easier to roll back than one large release; and shared ownership, because developers and operations work from the same repository, the same pipeline and the same monitoring. This group assignment is a small version of that workflow: one branch per developer, pull requests into a protected main branch, and a CI job that runs on every push.
+
+In short, DevOps does not replace the SDLC; it removes the waiting between its stages.
